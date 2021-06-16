@@ -1,0 +1,52 @@
+
+
+
+.logo{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+}
+.bodyh{
+	color: #23272a;
+}
+}
+.logo img{
+	width: 50vh;
+	}
+
+.maatwerkimg{
+	width: 30vh;
+	
+}	
+
+.maatwerk{
+	float: left;
+	margin-top: 5rem;
+	margin-right: 10rem
+}
+
+.profilepic{
+	width: 20vh;
+}
+
+.spacer{
+	height: 30rem;
+}
+
+.maatwerkp{
+	margin-top: 2rem;
+	
+}
+
+.row{
+	justify-content: center;
+	margin-left: 2rem;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .logo {
+    width: 20rem;
+  }
+}
+

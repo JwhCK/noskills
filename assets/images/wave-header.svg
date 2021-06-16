@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1294 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-5,0)">
+        <g id="Ressource">
+            <g id="Group-4-Copy">
+                <path id="Wave" d="M0,0L1300,0C1299.84,26.657 1299.84,69.704 1300,129.143C990.96,139.998 1034.97,114.449 701.503,123.932C368.04,133.415 390.606,144.317 0,121.343C1,88.126 1,47.679 0,0Z" style="fill:rgb(196,196,196);fill-opacity:0.15;"/>
+                <g id="Wave1" serif:id="Wave" transform="matrix(-1,0,0,1,1303,0)">
+                    <path d="M1,0L1302,0L1302,115.07C1221.61,111.87 1147.81,107.196 958.282,111.87C768.75,116.543 701.824,135.236 426.321,117.515C242.653,105.701 100.879,106.571 1,120.123L1,0Z" style="fill:rgb(35,39,42);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

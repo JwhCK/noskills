@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 368" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Ressources">
+        <g id="moutain-element-wave-wave-left" serif:id="moutain/element/wave/wave-left">
+            <g id="wave" transform="matrix(0.920505,0.390731,-0.390731,0.920505,-21.2059,-33.2219)">
+                <path d="M50.085,76.598C107.562,84.765 158.997,95.064 181.313,107.432C225.978,132.185 227.25,200.895 171.849,361.273C123.892,249.117 88.015,163.314 50.085,76.598Z" style="fill:rgb(35,39,42);"/>
+            </g>
+            <g id="wave1" serif:id="wave" transform="matrix(0.920505,0.390731,-0.390731,0.920505,-110.006,-51.2884)">
+                <path d="M117.297,7.095C130.012,10.694 140.421,14.517 147.717,18.56C177.588,35.115 188.051,71.328 175.135,141.472C156.748,100.534 137.351,52.277 117.297,7.095Z" style="fill:url(#_Linear1);"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(8.22823e-15,134.377,-134.377,8.22823e-15,148.935,7.0951)"><stop offset="0" style="stop-color:rgb(13,102,243);stop-opacity:0.23"/><stop offset="1" style="stop-color:rgb(67,86,191);stop-opacity:0.23"/></linearGradient>
+    </defs>
+</svg>
